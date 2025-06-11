@@ -1,0 +1,172 @@
+Uri: https://cdn.jsdelivr.net/gh/peterhry/CircleType@2.3.1/dist/circletype.min.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\gh\peterhry\CircleType@2.3.1\dist\circletype.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/fullpage.js@3.1.2/dist/fullpage.extensions.min.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\npm\fullpage.js@3.1.2\dist\fullpage.extensions.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/fullpage.js@3.1.2/vendors/scrolloverflow.min.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\npm\fullpage.js@3.1.2\vendors\scrolloverflow.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/fullpage.js@4.0.9/dist/fullpage.min.css
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\npm\fullpage.js@4.0.9\dist\fullpage.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/gsap@3.7.1/dist/gsap.min.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\npm\gsap@3.7.1\dist\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\npm\locomotive-scroll@3.5.4\dist\locomotive-scroll.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.1/dist/locomotive-scroll.min.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\npm\locomotive-scroll@4.1.1\dist\locomotive-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\npm\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\npm\swiper\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bb19ac02b8b4_calibre-regular.woff2
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bb19ac02b8b4_calibre-regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bb1d1402b8ab_YBN_webclip.png
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bb1d1402b8ab_YBN_webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bb21f002b8b5_calibre-medium.woff2
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bb21f002b8b5_calibre-medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bb57d002b8ad_Yogabynina6-p-1080.jpeg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bb57d002b8ad_Yogabynina6-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bb57d002b8ad_Yogabynina6-p-500.jpeg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bb57d002b8ad_Yogabynina6-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bb57d002b8ad_Yogabynina6-p-800.jpeg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bb57d002b8ad_Yogabynina6-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bb57d002b8ad_Yogabynina6.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bb57d002b8ad_Yogabynina6.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bbb0f802b8c7_YBN_favicon.png
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bbb0f802b8c7_YBN_favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bbbed302b8b1_YogabyNina5-p-1080.jpeg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bbbed302b8b1_YogabyNina5-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bbbed302b8b1_YogabyNina5-p-800.jpeg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bbbed302b8b1_YogabyNina5-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bbbed302b8b1_YogabyNina5.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bbbed302b8b1_YogabyNina5.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62cf14618951bbef8202b8b6_domaine-display-regular.woff2
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62cf14618951bbef8202b8b6_domaine-display-regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62db9e1ae3de790c868e57e4_Glow Flow Yoga by Nina2-p-1080.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62db9e1ae3de790c868e57e4_Glow Flow Yoga by Nina2-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62db9e1ae3de790c868e57e4_Glow Flow Yoga by Nina2-p-500.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62db9e1ae3de790c868e57e4_Glow Flow Yoga by Nina2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62db9e1ae3de790c868e57e4_Glow Flow Yoga by Nina2-p-800.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62db9e1ae3de790c868e57e4_Glow Flow Yoga by Nina2-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62db9e1ae3de790c868e57e4_Glow Flow Yoga by Nina2.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62db9e1ae3de790c868e57e4_Glow Flow Yoga by Nina2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62dbac08b32a76533c748a97_Glow Flow Yoga by Nina4-p-1080.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62dbac08b32a76533c748a97_Glow Flow Yoga by Nina4-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62dbac08b32a76533c748a97_Glow Flow Yoga by Nina4-p-500.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62dbac08b32a76533c748a97_Glow Flow Yoga by Nina4-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62dbac08b32a76533c748a97_Glow Flow Yoga by Nina4-p-800.jpg
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62dbac08b32a76533c748a97_Glow Flow Yoga by Nina4-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/62dbac08b32a76533c748a97_Glow Flow Yoga by Nina4.JPG
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\62dbac08b32a76533c748a97_Glow Flow Yoga by Nina4.JPG
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/css/yoga-by-nina-prod.webflow.shared.dabaf43b4.min.css
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\css\yoga-by-nina-prod.webflow.shared.dabaf43b4.min.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/js/webflow.781ee5f7.07369e2fd2e1ad18.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\js\webflow.781ee5f7.07369e2fd2e1ad18.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/js/webflow.schunk.4a394eb5af8156f2.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\js\webflow.schunk.4a394eb5af8156f2.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/62cf14618951bb43f802b88c/js/webflow.schunk.aef4c5686e4f836e.js
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\62cf14618951bb43f802b88c\js\webflow.schunk.aef4c5686e4f836e.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62cf14618951bb43f802b88c
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://www.yogabynina.com/
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\index.htm
+Content Type: text/html
+
+Uri: https://www.yogabynina.com/about
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\about.html
+Content Type: text/html
+
+Uri: https://www.yogabynina.com/biography
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\biography.html
+Content Type: text/html
+
+Uri: https://www.yogabynina.com/book
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\book.html
+Content Type: text/html
+
+Uri: https://www.yogabynina.com/classes
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\classes.html
+Content Type: text/html
+
+Uri: https://www.yogabynina.com/contact
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\contact.html
+Content Type: text/html
+
+Uri: https://www.yogabynina.com/credits
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\credits.html
+Content Type: text/html
+
+Uri: https://www.yogabynina.com/privacy
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\privacy.html
+Content Type: text/html
+
+Uri: https://www.yogabynina.com/terms
+File Name: C:\Users\User\Desktop\Сайт\www.yogabynina.com\terms.html
+Content Type: text/html
+
